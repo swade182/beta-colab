@@ -1,6 +1,6 @@
 {
-	"agent1":"your_agent",
-	"agent2":"flee_bot",
+	"agent1":"minimax",
+	"agent2":"lookahead_agent",
 	"print_ascii":"False",
 	"graphical":"True"
 }
